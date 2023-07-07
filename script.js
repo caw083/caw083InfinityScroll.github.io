@@ -46,7 +46,7 @@ function displayPhotos(){
     });
     
     ready = true;
-    count = 10;
+    count = 20;
 }
 
 // get Photo
